@@ -1,0 +1,14 @@
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/bin/Debug/net8.0/DesignPatterns.AbstractFacotryMethod
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/bin/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.deps.json
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/bin/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.runtimeconfig.json
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/bin/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.dll
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/bin/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.pdb
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.AssemblyInfoInputs.cache
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.AssemblyInfo.cs
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.csproj.CoreCompileInputs.cache
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.dll
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/refint/DesignPatterns.AbstractFacotryMethod.dll
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.pdb
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/DesignPatterns.AbstractFacotryMethod.genruntimeconfig.cache
+/Users/Repos/DesignPatterns.AbstractFacotryMethod/obj/Debug/net8.0/ref/DesignPatterns.AbstractFacotryMethod.dll
